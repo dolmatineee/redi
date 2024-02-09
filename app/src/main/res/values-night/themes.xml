@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplication" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary1">#001B3B</item>
+        <item name="textColor1">#0560FA</item>
+        <item name="textColor2">@color/white</item>
+        <item name="textColor3">@color/white</item>
+        <item name="textColor4">@color/white</item>
+        <item name="hintColor">@color/white</item>
+        <item name="backgroundColor">#000D1D</item>
+        <item name="android:statusBarColor">#0560FA</item>
+    </style>
+
+    <attr name="backgroundColor" format="color"/>
+    <attr name="colorPrimary1" format="color"/>
+    <attr name="textColor1" format="color"/>
+    <attr name="textColor2" format="color"/>
+    <attr name="textColor3" format="color"/>
+    <attr name="textColor4" format="color"/>
+    <attr name="hintColor" format="color"/>
+</resources>
